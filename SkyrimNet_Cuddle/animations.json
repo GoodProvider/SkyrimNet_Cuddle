@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "source":"stop",
+        "name": "stop"
+    },
+    {
+        "id": 1,
+        "source":"ace_romance",
+        "name": "CuddleFromBehind",
+        "description": "{cuddle.source} {cuddle.status} cuddling {cuddle.target} from behind.",
+        "source_anim": "romanceaceshouta02",
+        "target_anim": "romanceaceshouta01"
+    },
+    {
+        "id": 2,
+        "source":"ace_romance",
+        "name": "KneelingHolding",
+        "description": "{cuddle.source} {cuddling.status} kneeling and holding {cuddle.target} from behind.",
+        "source_anim": "romanceaceshouta04",
+        "target_anim": "romanceaceshouta03"
+    },
+    {
+        "id": 3,
+        "source":"ace_romance",
+        "name": "LapPillow",
+        "description": "{cuddle.source}'s head {cuddle.status} laying on {cuddle.target}'s lap pillow.",
+        "source_anim": "romanceaceshouta06",
+        "target_anim": "romanceaceshouta05"
+    },
+    {
+        "id": 4,
+        "source":"ace_romance",
+        "name": "LapPillowHeadstroke",
+        "description": "{cuddle.source}'s head {cuddle.status} laying on {cuddle.target}'s lap pillow. {cuddle.target} strokes {cuddle.source}'s head.",
+        "source_anim": "romanceaceshouta08",
+        "target_anim": "romanceaceshouta07"
+    },
+    {
+        "id": 5,
+        "source":"ace_romance",
+        "name": "LyingCuddle",
+        "description": "{cuddle.source} {cuddle.status} laying face to face and cuddling with {cuddle.target}.",
+        "source_anim": "romanceaceshouta10",
+        "target_anim": "romanceaceshouta09"
+    },
+    {
+        "id": 6,
+        "source":"ace_romance",
+        "name": "LyingCuddleKiss",
+        "description": "{cuddle.source} {cuddle.status} laying face to face, kissing, and cuddling with {cuddle.target}.",
+        "source_anim": "romanceaceshouta12",
+        "target_anim": "romanceaceshouta11"
+    },
+    {
+        "id": 7,
+        "source":"ace_romance",
+        "name": "LyingCuddleMount",
+        "description": "{cuddle.source} {cuddle.status} laying face to face and cuddling with {cuddle.target}. {cuddle.source}'s legs are resting on {cuddle.target}.",
+        "source_anim": "romanceaceshouta14",
+        "target_anim": "romanceaceshouta13"
+    },
+    {
+        "id": 8,
+        "source":"ace_romance",
+        "name": "LyingCuddleMountKiss",
+        "description": "{cuddle.target} {cuddle.status} laying with back raised on arms, between kneeling {cuddle.source}'s legs. {cuddle.source} is kissing {cuddle.target}.",
+        "source_anim": "romanceaceshouta16",
+        "target_anim": "romanceaceshouta15"
+    },
+    {
+        "id": 9,
+        "source":"ace_romance",
+        "name": "Sitting",
+        "description": "{cuddle.source} {cuddle.status} sitting face to face with {cuddle.target}.",
+        "source_anim": "romanceaceshouta18",
+        "target_anim": "romanceaceshouta17"
+    },
+    {
+        "id": 10,
+        "source":"ace_romance",
+        "name": "SittingKiss",
+        "description": "{cuddle.target} {cuddle.status} kneeling between {cuddle.source}'s legs. {cuddle.source} {cuddle.status} sitting in {cuddle.target}'s lap and kissing.",
+        "source_anim": "romanceaceshouta20",
+        "target_anim": "romanceaceshouta19"
+    },
+    {
+        "id": 11,
+        "source":"ace_romance",
+        "name": "SpooningKiss",
+        "description": "{cuddle.target} {cuddle.status} spooning and kisses with {cuddle.source}.",
+        "source_anim": "romanceaceshouta22",
+        "target_anim": "romanceaceshouta21"
+    },
+    {
+        "id": 12,
+        "source":"ace_romance",
+        "name": "SpooningSleep",
+        "description": "{cuddle.target} {cuddle.status} spooning and sleeps with {cuddle.source}.",
+        "source_anim": "romanceaceshouta24",
+        "target_anim": "romanceaceshouta23"
+    },
+    {
+        "id": 13,
+        "source":"ace_romance",
+        "name": "StandingHolding",
+        "description": "{cuddle.source} {cuddle.status} standing face to face and holding {cuddle.target}.",
+        "source_anim": "romanceaceshouta26",
+        "target_anim": "romanceaceshouta25"
+    },
+    {
+        "id": 14,
+        "source":"ace_romance",
+        "name": "StandingKiss",
+        "description": "{cuddle.source} {cuddle.status} standing face to face and kissing with {cuddle.target}.",
+        "source_anim": "romanceaceshouta28",
+        "target_anim": "romanceaceshouta27"
+    }
+]
